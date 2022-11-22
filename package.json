@@ -1,0 +1,10 @@
+{
+  "name": "image-compression",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Gaurav Bhardwaj <smartgaurav22@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "sharp": "^0.31.2"
+  }
+}

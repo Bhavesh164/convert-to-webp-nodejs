@@ -1,4 +1,4 @@
-#Image Compression Node.JS - Convert to WEBP
+# Image Compression Node.JS - Convert to WEBP
 
 Delete all files except webp
 

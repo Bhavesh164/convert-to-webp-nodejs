@@ -4,7 +4,7 @@ const sharp = require("sharp");
 const dirPath = "YOUR_DIRECTORY_GOES_HERE";
 
 function processConversion(file) {
-  if (file.includes(".pdf")) {
+  if (file.includes(".pdf") && file.includes(".webp")) {
     return;
   }
   try {
